@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JeuRendu", "JeuRendu\JeuRendu.csproj", "{DFCE9D71-52DA-483A-A95F-72D34E53307B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFCE9D71-52DA-483A-A95F-72D34E53307B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFCE9D71-52DA-483A-A95F-72D34E53307B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFCE9D71-52DA-483A-A95F-72D34E53307B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFCE9D71-52DA-483A-A95F-72D34E53307B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E29AAF33-8D30-4BA2-9B1D-8C943FE882A8}
+	EndGlobalSection
+EndGlobal
